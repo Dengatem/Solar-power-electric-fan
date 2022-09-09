@@ -1,7 +1,7 @@
 # Solar-power-electric-fan
 Proper ventilation is important in any home for better air quality and efficient heat and cooling. Therefore, this Solar fan will help provide ventilation throughout with the power of the sun.
 
-Materials
+*Materials
 
 •	3V Solar Panel
 
@@ -13,13 +13,13 @@ Materials
 
 •	A plywood board
 
-Equipment Used
+*Equipment Used
 
 •	Hot Glue Gun
 
 •	Soldering Machine
 
-Instructions
+*Instructions
 
 .	Connect the wires on the motor to the solar panel using soldering
 
