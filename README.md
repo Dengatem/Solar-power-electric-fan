@@ -17,7 +17,13 @@ Proper ventilation is important in any home for better air quality and efficient
 
 •	Hot Glue Gun
 
-•	Soldering Machine
+• Suitable stand
+
+• Soldering Iron/gun
+
+• Soldering wire
+
+• Wire
 
 **Instructions**
 
