@@ -13,13 +13,13 @@ Proper ventilation is important in any home for better air quality and efficient
 
 •	A plywood board
 
-****Tools
+**Tools**
 
 •	Hot Glue Gun
 
 •	Soldering Machine
 
-****Instructions
+**Instructions**
 
 .	Connect the wires on the motor to the solar panel using soldering
 
