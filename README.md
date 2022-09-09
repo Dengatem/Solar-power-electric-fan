@@ -22,7 +22,11 @@ Equipment Used
 Instructions
 
 .	Connect the wires on the motor to the solar panel using soldering
+
 .	Cut two long rectangles of Styrofoam and glue them down to the cardboard with 3 inches separation
+
 .	Glue the motor to one Styrofoam
+
 .	Glue the solar panel to the other Styrofoam facing towards the sun
+
 .	Attach the propeller to the motor
