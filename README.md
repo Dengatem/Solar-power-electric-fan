@@ -1,5 +1,6 @@
 # Solar-power-electric-fan
 Proper ventilation is important in any home for better air quality and efficient heat and cooling. Therefore, this Solar fan will help provide ventilation throughout with the power of the sun.
+
 Solar fan is a solar cooling device that runs on solar panels. When the sun hits the solar panel connected to the fan, it will cause the blades to start running, it can be called as solar powered fan.
 
 **Materials**
