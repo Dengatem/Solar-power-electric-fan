@@ -12,6 +12,8 @@ Proper ventilation is important in any home for better air quality and efficient
 •	Styrofoam blocks
 
 •	A plywood board
+•	A Rechargeable batereries
+
 
 **Tools**
 
